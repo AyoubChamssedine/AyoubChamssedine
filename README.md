@@ -32,7 +32,6 @@ I’m the **Founder of Freeze Hosting**, where I build **advanced hosting dashbo
 
 ### 🧩 Projects
 - 🧊 **[Freeze Hosting](https://github.com/FreezeHosting)** — Professional RDP Hosting Platform  
-- 🎮 **Tunisian Horizon RP** — Realistic FiveM Roleplay Experience  
 - ⚡ Custom dashboards, automation systems, and backend tools  
 
 ---
